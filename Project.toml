@@ -1,0 +1,9 @@
+name = "SRLBoost"
+uuid = "8f52f6ba-cf3e-41a7-911d-4805d4facbd3"
+license = "Apache 2.0"
+authors = ["Alexander L. Hayes <alexander@batflyer.net>"]
+version = "0.0.1"
+
+[deps]
+Julog = "5d8bcb5e-2b2c-4a96-a2b1-d40b3d3c344f"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
