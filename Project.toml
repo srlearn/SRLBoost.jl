@@ -6,4 +6,5 @@ version = "0.0.1"
 
 [deps]
 Julog = "5d8bcb5e-2b2c-4a96-a2b1-d40b3d3c344f"
+RelationalDatasets = "6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
